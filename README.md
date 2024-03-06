@@ -2,7 +2,17 @@
 
 Implementation of the string.h library with additions.
 
-The russian version of the task can be found in the repository.
+This is my project that allows you use the string methods in C.
+
+Also you can use default `string.h`, this project was needed for my studies.
+
+For build library use
+```
+make // in src folder
+```
+From Raiki410 :)
+
+Implementation of your own s21_decimal.h library.
 
 
 ## Contents
@@ -232,4 +242,3 @@ Bonus assignment for extra points. You must implement some string processing fun
   excluding the requirement to compare your implementation with the standard.
 
 
-💡 [Tap here](https://forms.yandex.ru/cloud/6418126b02848f263d78c4a1/) **to leave your feedback on the project**. Pedago Team really tries to make your educational experience better.
